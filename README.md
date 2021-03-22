@@ -1,6 +1,7 @@
-# TryHackMe
+# TryHackMe-Writeups
 
-(more info will be added soon)
+In this repository I will upload my writeups for different rooms in TryHackMe.
+
 
 ## What is THM?
 
